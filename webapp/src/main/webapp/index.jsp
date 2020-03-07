@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here. TESTING </h2>
+<h1> Hello, world! Welcome to my DevOps demo. </h1>
+<h2> My favorite color is BLUE. </h2>
+This WebApp deployed automatically using a DevOps pipeline.
