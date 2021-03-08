@@ -1,3 +1,3 @@
 <h1> Welcome to the DevOps demo. </h1>
-<h2>Today's color of the day is AQUAMARINE.</h2>
+<h2>Today's color of the day is BURGUNDY.</h2>
 This WebApp container is deployed using a DevOps pipeline.
